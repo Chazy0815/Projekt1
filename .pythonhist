@@ -1,0 +1,109 @@
+print(djsa)
+print("Hallo Welt")
+eingabe = input('Bitte geben Sie einen Text ein: ')                        │·····································
+  4                                                                            │·····································
+  5 print('Hallo Welt, Sie haben folgende eingabe gemacht: eingabe')           │·····································
+  6                                                                            │·····································
+  7 print(eingabe)                                                             │·····································
+eingabe = input('Bitte geben Sie einen Text ein: ')
+eingabe = input('Gib Wort ein ')
+laenge = len(eingabe)
+print(len(eingabe) * '#'
+print('#'(eingabe)'#')
+eingabe = input('Gib Wort ein ')
+zeit = '08:23'
+for pimmel in zeit:
+    print(pimmel)
+    
+satz = input('Bitte geben Sie einen Satz ein: ')
+wort = ''
+liste = []
+for buchstabe in satz:
+    if buchstabe.lower() in satz
+folge = range(0,10)
+print(folge)
+for item in folge:
+    print(item)
+    
+counter = 0
+while counter <4:
+    print(counter)
+    counter = counter +1
+    
+while counter <4:
+    print(counter)
+    counter += 1
+    
+import ipadress
+ipadress.ip_adress('192.168.0.1')
+ipaddress.ip_address()
+import ipaddress
+ipaddress.ip_address('19.138.27.139')
+ipa=ipaddress.ip_address('19.138.27.139')
+print(ipa.is_private)
+print(ipa.is_global)
+print(ipa.is_loopback)
+print(ipa.with_hostmask)
+ipn = ipaddress.ip_network("19.138.27.139/22")
+import ipaddress
+ipn = ipaddress.ip_network("19.138.27.139/22")
+import ipaddress
+ipn = ipaddress.ip_network("10.0.0.0/16")
+print(ipn.with_hostmask)
+import ipaddress
+ipaddress.ip_address('199.138.0.1')
+ipn = ipaddress.ip_network("199.138.0.1")
+print(ipn.with_netmask)
+ipn = ipaddress.ip_network("19.138.27.139")
+print(ipn.with_netmask)
+ipn = ipaddress.ip_network("19.138.27.139/22")
+ipn = ipaddress.ip_network("19.138.27.139/16")
+ipn = ipaddress.ip_network("19.138.27.139/0")
+ipn = ipaddress.ip_network("19.138.27.139")
+print(ipn.with_netmask)
+ipn = ipaddress.ip_network("19.138.27.199")
+print(ipn.with_netmask)
+ipn = ipaddress.ip_network("10.0.0.0/16")
+print(ipn.with_netmask)
+ipn = ipaddress.ip_network("198.138.27.139/22")
+ipn= ipaddress.ip_network('19.138.27.139/22')
+ipn= ipaddress.ip_network('192.0.2.0/29')
+list(ipn.hosts())
+ipaddress.ip_address('192.0.2.0/29')
+socket.gethostname()
+socket.getsockname()
+import socket
+socket.gethostname()
+socket.getsockname()
+ipn
+ipn = ipaddress.ip_network('199.1.8.0/29')
+import ipaddress
+ipn = ipaddress.ip_network('199.1.8.0/29')
+ipn.broadcast_address
+ipn = ipaddress.ip_network("10.0.0.0/16")
+print(ipn.with_prefixlen)
+print(ipn.with_hostmask
+print(ipn.with_hostmask)
+ipn = ipaddress.ip_network("10.0.0.0/16")
+print(ipn.with_prefixlen)
+print(ipn.with_hostmask)
+print(ipn.with_netmask)
+ipaddress.ip_address(3221225985)
+addr4 = ipaddress.ip_address('192.0.2.1')
+addr4.version
+net4 = ipaddress.ip_network('192.0.2.0/24')
+for x in net4.hosts():
+    print(x)
+    
+net4 = ipaddress.ip_network('19.138.27.139/22')
+ipaddress.ip_address('172.22.0.184')
+ipaddress.ip_address('172.22.0.184')
+import ipaddress
+ipaddress.ip_address('172.22.0.184')
+import ipaddress
+list(ip_network(192.0.2.0/29').hosts())
+list(ip_network('192.0.2.0/29').hosts())
+list(ip_network('192.0.2.0/29').hosts())
+import ipaddress
+list(ip_network('192.0.2.0/29').hosts())
+sys_name=socket.gethostname()
